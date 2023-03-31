@@ -59,4 +59,4 @@ What you should learn from this project:
 ---
 
 ## Author :writing_hand:
-* **Samuel Martínez** - [samuelsrmv :octocat:](https://github.com/samuelsrmv)
+* **Nigel** - [nigel:](https://github.com/nigel2421)
